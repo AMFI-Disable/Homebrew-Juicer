@@ -9,6 +9,10 @@ cask "juicer" do
 
   app "Juicer.app"
 
+  postflight do
+    system_command "xattr", args: ["-cr", "#{appdir}/Juicer.app"]
+  end
+
   zap trash: [
     "~/Library/Application Support/com.even.juicer",
     "~/Library/Caches/com.even.juicer",
