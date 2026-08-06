@@ -1,8 +1,8 @@
 cask "juicer" do
   version "1.1.3"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "b48ec3fbd2f60a3300059eabbbe3f3a0462ec11db860d2f3b95f0c7f9e20127c"
 
-  url "https://github.com/amfi-disable/Juicer/releases/download/V1.1.2/Juicer.zip"
+  url "https://github.com/amfi-disable/Juicer/releases/download/V1.1.3/Juicer-V1.1.3.zip"
   name "Juicer"
   desc "Premium native macOS developer suite"
   homepage "https://github.com/amfi-disable/Juicer"
