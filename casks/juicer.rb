@@ -1,6 +1,6 @@
 cask "juicer" do
-  version "1.0.2"
-  sha256 "72404ec7adbfdb903e88f9cd14fd66342b0c5d8ac7f8e54c2a60b41e37341a50"
+  version "1.0.3"
+  sha256 "c5edb970c9fc7f6e7685ab4fb8e20052564a194ddaa8db568a3160f70342a92d"
 
   url "https://github.com/AMFI-Disable/Juicer/releases/download/V1.1.3/Juicer-V1.1.3.zip"
   name "Juicer"
